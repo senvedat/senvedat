@@ -4,7 +4,7 @@
 
 I am passionate about constructing and expanding innovative solutions that drive business growth. With a diverse background as a **CTO, developer, and project manager**, I bring a unique blend of **technical proficiency, product strategy, and leadership**. I specialize in **building scalable architectures**, **managing cross-functional teams**, and **solving complex technology challenges** in fast-paced startup environments.  
 
-🔹 **Expertise in:** Cloud Computing, DevOps, Backend Development, API Design  
+🔹 **Expertise in:** Cloud Computing, DevOps, Backend Development, Frondend Development, Mobile Development  
 🔹 **Mission:** Driving innovation, fostering collaboration, and promoting continuous learning  
 
 ---
