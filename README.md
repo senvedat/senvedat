@@ -11,7 +11,7 @@ I am passionate about constructing and expanding innovative solutions that drive
 
 ## 🛠️ Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,go,python,fastapi,flask,flutter,dart,aws,nodejs,express,ts,graphql,nestjs,nextjs,react,docker,portainer,kubernetes,jenkins,postgres,mysql,prisma,firebase,supabase,html,css,bootstrap,js,git,github,githubactions,redis,nginx,graphql,terraform,wordpress,postman)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,go,python,fastapi,flask,flutter,dart,aws,nodejs,express,ts,graphql,nestjs,nextjs,react,docker,kubernetes,jenkins,postgres,mysql,prisma,firebase,supabase,html,css,bootstrap,js,git,github,githubactions,redis,nginx,graphql,terraform,wordpress,postman)](https://skillicons.dev)  
 
 ---
 
