@@ -25,7 +25,7 @@ I am passionate about constructing and expanding innovative solutions that drive
 ## 📫 Connect with Me  
 
 💼 **Website:** [Uplide](https://uplide.com/tr/anasayfa/)  
-💡 **LinkedIn:** [Vedat Shen](https://www.linkedin.com/in/senvedat/)  
-💡 **Twitter:** [Vedat Shen](https://x.com/vedatshen)  
+💡 **Social Media:** [Linkedin](https://www.linkedin.com/in/senvedat/)  
+💡 **Social Media:** [Twitter](https://x.com/vedatshen)  
 
 Feel free to reach out! 🚀  
