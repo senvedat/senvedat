@@ -11,13 +11,7 @@ I am passionate about constructing and expanding innovative solutions that drive
 
 ## 🛠️ Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,go,gin,python,fastapi,flutter,aws,nodejs,express,nestjs,nextjs,react,docker,portainer,kubernetes,postgres,mysql,html,css,js,git,github,redis,nginx,graphql,terraform,linux)](https://skillicons.dev)  
-
-💡 *Other tools & technologies I work with:*  
-- **DevOps & Cloud:** AWS Services (EC2, ECS, ECR, RDS, S3, CodeDeploy, Route 53), Terraform, Kubernetes, Portainer
-- **Databases & Storage:** PostgreSQL, MySQL, Redis, Supabase  
-- **Frontend & UI Frameworks:** Next.js, React, TailwindCSS  
-- **Other:** Nginx, GraphQL, WebSockets  
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,go,python,fastapi,flask,flutter,dart,aws,nodejs,express,ts,graphql,nestjs,nextjs,react,docker,portainer,kubernetes,jenkins,postgres,mysql,prisma,firebase,supabase,html,css,bootstrap,js,git,github,githubactions,redis,nginx,graphql,terraform,wordpress,postman)](https://skillicons.dev)  
 
 ---
 
